@@ -1,2 +1,6 @@
 hi,github
 add new test
+
+def test2
+  test .....
+end
